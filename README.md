@@ -1,3 +1,3 @@
 # Fable
-**F**ile are execut**able**.
+**F**iles are execut**able**.
 
